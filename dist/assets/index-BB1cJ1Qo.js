@@ -1,1 +1,0 @@
-import{j as o,n as r}from"./loadApp-CzAnCp3f.js";import{d as a}from"./chart-Do8Bnu2j.js";const s=[a().subtract(7,"day").format("YYYY-MM-DD"),a().subtract(1,"day").format("YYYY-MM-DD")],D=t=>o.jsx(r,{mode:"date",placeholder:["开始时间","结束时间"],value:s,format:"YYYY-MM-DD",onChange:e=>t(e)});export{D as L};
